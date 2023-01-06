@@ -1,3 +1,5 @@
+R scripts and data for the article
+
 Demographic Components of Future Potential Old-Age Support Ratios
  
 Kirill Andreev
